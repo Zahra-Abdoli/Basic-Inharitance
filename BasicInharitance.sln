@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicInharitance", "BasicInharitance\BasicInharitance.csproj", "{7D17D357-9EB5-4A8A-AC6E-22D07AFB4BCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleInharitance", "BasicInharitance\SingleInharitance.csproj", "{7D17D357-9EB5-4A8A-AC6E-22D07AFB4BCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
